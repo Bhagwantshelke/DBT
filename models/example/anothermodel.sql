@@ -1,0 +1,1 @@
+select count(*) as count_using_model from  {{ ref('dbtsql') }}

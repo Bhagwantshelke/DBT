@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: source_student_join
+    description: 'testing purpose'
+    database: dbt
+    schema: DBT_BSHELKE
+    tables:
+      - name: table1
+      - name: table2
+
+

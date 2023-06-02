@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: source_student
+    description: 'testing purpose'
+    database: dbt
+    schema: DBT_BSHELKE
+    tables:
+      - name: table1
+
+
