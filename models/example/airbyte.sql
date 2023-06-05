@@ -1,1 +1,1 @@
-select count(*) from _AIRBYTE_RAW_BHAGWANT_AIRBYTESHEET1
+select count(*) as count from _AIRBYTE_RAW_BHAGWANT_AIRBYTESHEET1
